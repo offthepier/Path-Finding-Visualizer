@@ -1,13 +1,6 @@
 # 🎯 Pathfinding Algorithm Visualizer
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&h=400" alt="Pathfinding Banner"/>
-  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-blue?style=for-the-badge)](https://comforting-parfait-86ac56.netlify.app)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</div>
+![Screen Recording 2025-01-10 at 4 31 01 pm](https://github.com/user-attachments/assets/ca934bb5-de01-4af3-a020-49df50aba884)
 
 ## 🌟 Features
 
