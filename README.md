@@ -1,5 +1,7 @@
 # 🎯 Pathfinding Algorithm Visualizer
 
+## [Live Demo](https://comforting-parfait-86ac56.netlify.app)   (Works best on Safari)
+
 ![Screen Recording 2025-01-10 at 4 31 01 pm](https://github.com/user-attachments/assets/ca934bb5-de01-4af3-a020-49df50aba884)
 
 ## 🌟 Features
