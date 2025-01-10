@@ -24,9 +24,6 @@
 - Enable diagonal movement
 - Compare multiple algorithms simultaneously
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?auto=format&fit=crop&w=800&h=400" alt="Features Overview"/>
-</div>
 
 ## 🚀 Quick Start
 
@@ -62,10 +59,7 @@ npm run dev
    - Watch the algorithm in action
    - Compare performance metrics
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1633412802994-5c058f151b66?auto=format&fit=crop&w=800&h=400" alt="Visualization Demo"/>
-</div>
-
+   
 ## 🔧 Technical Details
 
 ### Stack
