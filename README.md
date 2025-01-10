@@ -40,7 +40,9 @@ An interactive web application for visualizing various pathfinding algorithms in
 git clone https://github.com/yourusername/pathfinding-visualizer.git
 
 2. Install dependencies
+```bash
 npm install
 
 3.Run development server
+```bash
 npm run dev
