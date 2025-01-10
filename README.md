@@ -2,7 +2,6 @@
 
 ## [Live Demo](https://comforting-parfait-86ac56.netlify.app)   (Works best on Safari)
 ![Screen Recording 2025-01-10 at 4 31 01 pm (1)](https://github.com/user-attachments/assets/de8f857f-34bb-4ec1-b9d0-4654a1a26630)
-![Screen Recording 2025-01-10 at 4 31 01 pm](https://github.com/user-attachments/assets/ca934bb5-de01-4af3-a020-49df50aba884)
 
 ## 🌟 Features
 
@@ -14,6 +13,8 @@
 - **Greedy Best-First Search** - Fast but not optimal
 - **Bidirectional Search** - Meets in the middle
 - **Jump Point Search (JPS)** - Optimized for uniform-cost grids
+
+![Screen Recording 2025-01-10 at 4 31 01 pm](https://github.com/user-attachments/assets/ca934bb5-de01-4af3-a020-49df50aba884)
 
 ### 🎮 Interactive Features
 - Draw/erase walls by clicking and dragging
