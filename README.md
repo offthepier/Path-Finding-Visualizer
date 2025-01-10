@@ -1,11 +1,10 @@
-# Pathfinding Algorithm Visualizer
+![Screen Recording 2025-01-10 at 4 31 01 pm](https://github.com/user-attachments/assets/fb98859f-f439-4a7d-869b-84e77ae28d22)# Pathfinding Algorithm Visualizer
 
 An interactive web application for visualizing various pathfinding algorithms in action. Built with React, TypeScript, and Tailwind CSS.
 
 [Live Demo](https://comforting-parfait-86ac56.netlify.app)   (Works best on Safari)
 ![Screen Recording 2025-01-10 at 4 31 01 pm (1)](https://github.com/user-attachments/assets/de8f857f-34bb-4ec1-b9d0-4654a1a26630)
-
-
+![Screen Recording 2025-01-10 at 4 31 01 pm](https://github.com/user-attachments/assets/ca934bb5-de01-4af3-a020-49df50aba884)
 
 ## Features
 
