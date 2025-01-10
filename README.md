@@ -3,6 +3,9 @@
 An interactive web application for visualizing various pathfinding algorithms in action. Built with React, TypeScript, and Tailwind CSS.
 
 [Live Demo](https://comforting-parfait-86ac56.netlify.app)   (Works best on Safari)
+![Uploading Screen Recording 2025-01-10 at 4.31.01 pm (1).gif…]()
+
+
 
 ## Features
 
