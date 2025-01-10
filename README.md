@@ -1,3 +1,144 @@
+# 🎯 Pathfinding Algorithm Visualizer
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&h=400" alt="Pathfinding Banner"/>
+  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-blue?style=for-the-badge)](https://comforting-parfait-86ac56.netlify.app)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
+
+## 🌟 Features
+
+### 🔍 Multiple Pathfinding Algorithms
+- **Weighted A* Search** - Optimal pathfinding with weighted nodes
+- **Dijkstra's Algorithm** - Guarantees shortest path
+- **Breadth-First Search (BFS)** - Unweighted shortest path
+- **Depth-First Search (DFS)** - Memory-efficient exploration
+- **Greedy Best-First Search** - Fast but not optimal
+- **Bidirectional Search** - Meets in the middle
+- **Jump Point Search (JPS)** - Optimized for uniform-cost grids
+
+### 🎮 Interactive Features
+- Draw/erase walls by clicking and dragging
+- Add weighted nodes for realistic scenarios
+- Adjust visualization speed
+- Generate random mazes
+- Enable diagonal movement
+- Compare multiple algorithms simultaneously
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?auto=format&fit=crop&w=800&h=400" alt="Features Overview"/>
+</div>
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/pathfinding-visualizer.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+## 📖 How to Use
+
+1. **Select Algorithm**
+   - Choose from the dropdown menu
+   - Enable compare mode to run multiple algorithms
+
+2. **Create Maze**
+   - Click and drag to draw walls
+   - Use weighted nodes mode for varied costs
+   - Generate random mazes
+
+3. **Customize Settings**
+   - Adjust visualization speed
+   - Toggle diagonal movement
+   - Enable weighted nodes
+
+4. **Visualize**
+   - Click "Visualize" to start
+   - Watch the algorithm in action
+   - Compare performance metrics
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1633412802994-5c058f151b66?auto=format&fit=crop&w=800&h=400" alt="Visualization Demo"/>
+</div>
+
+## 🔧 Technical Details
+
+### Stack
+```typescript
+interface TechStack {
+  frontend: {
+    framework: "React 18";
+    language: "TypeScript";
+    styling: "Tailwind CSS";
+    buildTool: "Vite";
+    icons: "Lucide React";
+  };
+}
+```
+
+### Performance
+- Optimized rendering with React hooks
+- Efficient pathfinding implementations
+- Responsive design for all screen sizes
+- Real-time visualization updates
+
+## 🤝 Contributing
+
+We welcome contributions! Here's how you can help:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📈 Performance Metrics
+
+| Algorithm | Average Time | Path Optimality | Memory Usage |
+|-----------|--------------|----------------|--------------|
+| A*        | O(n log n)   | Optimal        | Moderate     |
+| Dijkstra  | O(n log n)   | Optimal        | High         |
+| BFS       | O(n)         | Optimal        | High         |
+| DFS       | O(n)         | Not Optimal    | Low          |
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Inspired by pathfinding algorithms in computer science
+- Built with modern web technologies
+- Community feedback and contributions
+
+<div align="center">
+  <br />
+  <p>
+    <a href="https://comforting-parfait-86ac56.netlify.app">View Demo</a>
+    ·
+    <a href="https://github.com/yourusername/pathfinding-visualizer/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/yourusername/pathfinding-visualizer/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
 # Pathfinding Algorithm Visualizer
 
 An interactive web application for visualizing various pathfinding algorithms in action. Built with React, TypeScript, and Tailwind CSS.
