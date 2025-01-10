@@ -39,6 +39,11 @@ An interactive web application for visualizing various pathfinding algorithms in
 ```bash
 git clone https://github.com/yourusername/pathfinding-visualizer.git
 
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/pathfinding-visualizer.git
+
+
 2. Install dependencies
 ```bash
 npm install
